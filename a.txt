@@ -1,0 +1,5 @@
+devops -devolopment team and operational team
+github login
+git installation
+bitbucket login
+ubuntu
